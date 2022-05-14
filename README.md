@@ -9,5 +9,7 @@ I use Unity and blender for game development and would be happy to find people t
 feel free to contact me through my email.
 
 email: dhruvahlawat573@gmail.com
+
 some of my games are available at: triplebot573.wixsite.com/design3d/games
+
 Portfolio website: triplebot573.wixsite.com/design3d

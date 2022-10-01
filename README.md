@@ -10,6 +10,6 @@ feel free to contact me through my email.
 
 email: dhruvahlawat573@gmail.com
 
-some of my games are available at: triplebot573.wixsite.com/design3d/games
+some of my games are available [here](triplebot573.wixsite.com/design3d/games)
 
-Portfolio website: triplebot573.wixsite.com/design3d
+[Portfolio website](triplebot573.wixsite.com/design3d)

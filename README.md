@@ -12,4 +12,4 @@ email: dhruvahlawat573@gmail.com
 
 some of my games are available [here](triplebot573.wixsite.com/design3d/games)
 
-[Portfolio website](triplebot573.wixsite.com/design3d)
+[3D modelling Portfolio website](triplebot573.wixsite.com/design3d)

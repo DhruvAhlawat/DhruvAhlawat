@@ -9,11 +9,10 @@ feel free to contact me through my email. I also actively participate in competi
 
 email: dhruvahlawat573@gmail.com
 
-
+<!-- 
 Codechef: https://www.codechef.com/users/dhruvahlawat
 
 Codeforces: https://codeforces.com/profile/Awesomeness._.
-
+ -->
 some of my games are available [here](https://dhruvahlawatprojects.wixsite.com/home/games)
-
-[Website](https://dhruvahlawatprojects.wixsite.com/home)
+Do check out my [Website!](https://dhruvahlawatprojects.wixsite.com/home) to know more about me
